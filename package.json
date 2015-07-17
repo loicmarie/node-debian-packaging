@@ -1,0 +1,11 @@
+{
+  "name": "patate",
+  "version": "1.0.0",
+  "description": "Super description",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul VARACHE",
+  "license": "ISC"
+}
